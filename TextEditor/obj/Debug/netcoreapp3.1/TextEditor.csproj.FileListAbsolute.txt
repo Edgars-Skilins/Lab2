@@ -1,0 +1,16 @@
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.frmTextEditor.resources
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.GenerateResource.cache
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.frmAboutTextEditor.resources
+D:\Edgara\Skolai\Bakalaurs - 2. kurss\Vizuālās programmēšanas pamati\LD2\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.Properties.Resources.resources
